@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+main{
+  width: 400px;
+  height: 400px;
+  margin: 100px auto;
+  background-color: rgb(212, 206, 206);
+
+}
+h1,p,div{
+  width: 150px;
+  margin: 70px auto;
+  text-align: center;
+}
+p{
+  font-size: 5em;
+}
+
+div{
+  width: 300px;
+}
+button{
+  margin-right: 10px;
+ padding:5px 10px;
+}
